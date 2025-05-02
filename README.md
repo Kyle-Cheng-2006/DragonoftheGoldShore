@@ -1,40 +1,16 @@
-# Shuowen Central
+# Kyle Cheng's Portfolio
 
-# Headers
+    This website showcases work from my freshman year of **Cooper Union**.
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+This website showcases work from my freshman year of **Cooper Union**.
 
-Alternatively, for H1 and H2, an underline-ish style:
+###Directory
 
-Alt-H1
-======
-
-Alt-H2
-------
-
-# Emphasis
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-# Lists
-
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+1. Lightroom
+2. Photoshop
+3. Premier
+4. Illustrator
+5. After Effects
 
 ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
