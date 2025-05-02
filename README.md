@@ -1,10 +1,8 @@
-# Kyle Cheng's Portfolio
+# **Kyle Cheng's Portfolio**
 
-    This website showcases work from my freshman year of **Cooper Union**.
+    This website showcases work from my freshman year of Cooper Union.
 
-This website showcases work from my freshman year of **Cooper Union**.
-
-### Directory
+## Directory
 
 1. Lightroom
 2. Photoshop
